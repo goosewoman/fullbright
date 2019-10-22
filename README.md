@@ -1,1 +1,1 @@
-# Tool Switcher for automatic swapping tools for maximum mining profits.
+# Simple fullbright mod. press V to toggle fullbright.
